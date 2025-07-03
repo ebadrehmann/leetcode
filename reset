@@ -1,0 +1,52 @@
+[33mcommit c42f812b4bcd5259066ce4e304aae7d1aa174356[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ebad Rehman <ebadrehmann@gmail.com>
+Date:   Thu Jul 3 00:34:36 2025 -0500
+
+    Created new directories
+
+[33mcommit 46d486460148b0db7d8b60a7c81831bb93f07f61[m
+Author: Ebad Rehman <ebadrehmann@gmail.com>
+Date:   Wed Jul 2 23:14:18 2025 -0500
+
+    Deleted readme
+
+[33mcommit d92cf0c73bd2fe7495e1dd4d9f78459e30a14b6a[m
+Merge: 506d691 9706869
+Author: Ebad Rehman <106476276+ebadrehmann@users.noreply.github.com>
+Date:   Wed Jul 2 22:51:02 2025 -0500
+
+    Merge pull request #1 from ebadrehmann/feature-readme-instructions
+    
+    i'm commited
+
+[33mcommit 9706869a8d16a10eae1e31837c6edfac8fbaa78e[m[33m ([m[1;31morigin/feature-readme-instructions[m[33m)[m
+Author: Ebad Rehman <ebadrehmann@gmail.com>
+Date:   Wed Jul 2 14:33:08 2025 -0500
+
+    i'm commited
+
+[33mcommit 506d691b27ecf5eacf6059d91b11a46745eff65b[m
+Author: Ebad Rehman <ebadrehmann@gmail.com>
+Date:   Tue Jul 1 23:15:44 2025 -0500
+
+    Updated readme
+    
+    Some description
+
+[33mcommit c494b98771c6c0834bb263da7e92c478c7cdaced[m
+Author: Ebad Rehman <106476276+ebadrehmann@users.noreply.github.com>
+Date:   Tue Jul 1 22:35:04 2025 -0500
+
+    Create README.md
+
+[33mcommit 7df11f3356909d4866930434dbaa2a93360ffb0b[m
+Author: Ebad Rehman <106476276+ebadrehmann@users.noreply.github.com>
+Date:   Tue Jul 1 22:03:29 2025 -0500
+
+    Delete README.md
+
+[33mcommit a9d45f4a5c8d32a2488dea804a9c72498447a7f8[m
+Author: Ebad Rehman <106476276+ebadrehmann@users.noreply.github.com>
+Date:   Tue Jul 1 22:00:53 2025 -0500
+
+    Initial commit
